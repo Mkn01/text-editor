@@ -1,0 +1,27 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mkn01/text-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mkn01/text-editor/issues"
+  },
+  "homepage": "https://github.com/Mkn01/text-editor#readme",
+  "dependencies": {
+    "code-mirror-themes": "^1.0.0",
+    "concurrently": "^7.3.0",
+    "express": "^4.18.1",
+    "idb": "^7.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
