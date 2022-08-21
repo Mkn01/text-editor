@@ -1,6 +1,9 @@
 {
   "name": "text-editor",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.2.0"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -28,5 +31,6 @@
     "express": "^4.18.1",
     "idb": "^7.0.2",
     "nodemon": "^2.0.19"
-  }
+  },
+  "devDependencies": {}
 }
